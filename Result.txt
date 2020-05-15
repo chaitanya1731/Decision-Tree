@@ -1,0 +1,2 @@
+Information Gain Accuracy: 0.9566666666666667
+Variance Impurity Accuracy: 0.9533333333333334
